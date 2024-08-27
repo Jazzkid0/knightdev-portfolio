@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'I’m a DEVELOPER. I make stuff, and then I make stuff better'
-    subtitle: Look at some of the cool stuff I've made and/or made better below.
+    subtitle: 'Look at some of the cool stuff I''ve made and/or made better:'
     styles:
       self:
         height: auto

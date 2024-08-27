@@ -125,7 +125,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? \\nThink I'd be a good fit on your team? Tell me more...\U0001F4AC"
+    title: "Got an interesting project? Think I'd be a good fit on your team? Tell me more...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
